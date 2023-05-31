@@ -1,4 +1,4 @@
-# I-Love-Math
+
 <img width="115" alt="Screen Shot 2023-05-31 at 16 48 26" src="https://github.com/inomisay/I-Love-Math/assets/98346164/93ae46be-0c59-47ef-af8f-2897dccef872">
 
 # I Love Math
